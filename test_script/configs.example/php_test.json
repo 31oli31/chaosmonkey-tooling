@@ -1,9 +1,0 @@
-{
-    "ID_EXCEL_PATH": "ScriptIDs.xlsx",
-    "BASE_URL": "https://www.google.de",
-    "URL_TEMPLATE": "https://www.google.de/{bhash}",
-    "MODE": "batch",
-    "SINGLE_REQUEST_DELAY": 1,
-    "BATCH_SIZE": 100,
-    "TOTAL_REQUESTS": 1000
-}
