@@ -1,0 +1,15 @@
+{
+    "IDS": [
+        "bhash_1",
+        "bhash_2",
+        "bhash_3",
+        "bhash_4",
+        "bhash_5"
+    ],
+    "BASE_URL": "https://www.google.de",
+    "URL_TEMPLATE": "https://www.google.de/{bhash}",
+    "MODE": "batch",
+    "SINGLE_REQUEST_DELAY": 1,
+    "BATCH_SIZE": 30,
+    "TOTAL_REQUESTS": 500
+}
