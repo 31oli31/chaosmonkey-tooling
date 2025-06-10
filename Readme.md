@@ -30,6 +30,10 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+oder
+```bash
+venv/bin/pip install -r requirements.txt
+```
 
 ### Running Tests
 
